@@ -208,7 +208,7 @@ logo=(f"""\x1b[1;97m
              ███████ ██         ██
 
     ┌───────────────────────────────────────┐
-    │ [✓] AUTHOR   : SHAHIN ALAM            │
+    │ [✓] AUTHOR   : SK MAHIN99935          │
     │ [✓] GITHUB   : SPY-1x1                │
     │ [✓] WHATSAPP : +8801615161056         │
     │ [✓] VERSION  : XNXX                   │
